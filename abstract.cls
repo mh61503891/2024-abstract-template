@@ -88,14 +88,6 @@
 \newcommand\tabref[1]{表~\ref{#1}}
 \newcommand\equref[1]{\eqref{#1}}
 
-% % author
-% \def\author#1#2#3#4{
-%   \gdef\@presentno{#1}
-%   \gdef\@lab{#2}
-%   \gdef\last@name{#3}
-%   \gdef\first@name{#4}
-% }
-
 % makeabstracttitle
 % 講演番号 - 左上/12ポイント/セリフ体の欧文フォント（Times New Romanなど）/ボールド/
 % 題目 - 講演番号と同じ行/12ポイント/ボールド/2行に渡っても可/
